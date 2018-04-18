@@ -5,4 +5,4 @@ Its an arduino based project where the components you need is
 2. Two ultra-violet sensors 
 
 ## Circuit Diagram 
-![alt text](Gesture-sensor/circuit diagram.png)
+![alt text](https://github.com/Anmol-Middha/Gesture-sensor/blob/master/circuit%20diagram.png)
